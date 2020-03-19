@@ -2,7 +2,6 @@ module.exports = {
 	title: 'CS272 Dissertation Project',
 	description: 'A single sign-on for AdDU academic information system using java-based authentication platform',
 	themeConfig: {
-		sidebarDepth: 0,
 		smoothScroll: true,
 		sidebar: [
 			{
